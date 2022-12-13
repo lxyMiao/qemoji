@@ -1,0 +1,8 @@
+com.lxy.fxxkqemoji.app-pngs-0 /storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/build/generated/res/pngs/debug
+com.lxy.fxxkqemoji.app-resValues-1 /storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/build/generated/res/resValues/debug
+com.lxy.fxxkqemoji.app-rs-2 /storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/build/generated/res/rs/debug
+com.lxy.fxxkqemoji.app-packageDebugResources-3 /storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.lxy.fxxkqemoji.app-packageDebugResources-4 /storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.lxy.fxxkqemoji.app-merged_res-5 /storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/build/intermediates/merged_res/debug
+com.lxy.fxxkqemoji.app-debug-6 /storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/debug/res
+com.lxy.fxxkqemoji.app-main-7 /storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/res

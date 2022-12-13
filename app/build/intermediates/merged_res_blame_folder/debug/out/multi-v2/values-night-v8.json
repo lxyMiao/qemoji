@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.lxy.fxxkqemoji.app-mergeDebugResources-3:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "820"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "697"
+                    }
+                }
+            ]
+        }
+    ]
+}

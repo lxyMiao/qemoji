@@ -1,0 +1,46 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.lxy.fxxkqemoji"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:5:5-21:19
+12        android:allowBackup="true"
+12-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:7:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:8:9-43
+15        android:label="qemoji"
+15-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:9:9-31
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:10:9-54
+17        android:supportsRtl="true" >
+17-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:11:9-35
+18        <meta-data
+18-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:12:12-14:35
+19            android:name="xposedmodule"
+19-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:13:13-40
+20            android:value="true" />
+20-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:14:13-33
+21        <meta-data
+21-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:15:9-17:53
+22            android:name="xposeddescription"
+22-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:16:13-45
+23            android:value="disable qq apple emoji" />
+23-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:17:13-51
+24        <meta-data
+24-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:18:9-20:33
+25            android:name="xposedminversion"
+25-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:19:13-44
+26            android:value="53" />
+26-->/storage/emulated/0/AndroidIDEProjects/fxxkqemoji/app/src/main/AndroidManifest.xml:20:13-31
+27    </application>
+28
+29</manifest>
